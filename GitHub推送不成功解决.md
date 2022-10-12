@@ -12,7 +12,7 @@
 ssh-keygen -t rsa -C "自己的git账号"
 ```
 
-3.然后他会提示你输入密码这李密码是看不到的
+3.然后他会提示你输入密码这里密码是看不到的
 
 ```Enter passphrase (empty for no passphrase):
 
